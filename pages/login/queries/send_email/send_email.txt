@@ -1,0 +1,8 @@
+Hello {{email_su.text}},
+Welcome to {{email_su.text}}! You've successfully signed up for our myApp.
+We want to personally thank you for joining our email list and share some 
+helpful advice on getting started. 
+
+
+
+Thank you.
