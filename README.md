@@ -1,11 +1,46 @@
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
+![image](https://github.com/shubhamiaastha/myapp/assets/135720797/b8ecfb6d-eba3-4f62-b550-6c8cc1595937)
 
-This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
+Organizations build internal applications such as dashboards, database GUIs, admin panels, approval apps, customer support dashboards, and more to help their teams perform day-to-day operations. Appsmith is an open-source tool that enables the rapid development of these internal apps. Read more on our [website](https://www.appsmith.com/?utm_source=github&utm_medium=organic&utm_campaign=readme).
 
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
+Video:-
 
-### [Github](https://github.com/appsmithorg/appsmith) • [Docs](https://docs.appsmith.com/?utm_source=github&utm_medium=social&utm_content=appsmith_docs&utm_campaign=null&utm_term=appsmith_docs) • [Community](https://community.appsmith.com/) • [Tutorials](https://github.com/appsmithorg/appsmith/tree/update/readme#tutorials) • [Youtube](https://www.youtube.com/appsmith) • [Discord](https://discord.gg/rBTTVJp)
+[Video](https://www.youtube.com/watch?v=NnaJdA1A11s?v=Dxe_NzdGzL4&utm_source=github&utm_medium=organic&utm_campaign=readme/?target=_blank)
 
-##### You can visit the application using the below link
+Installation:-
 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/64e747f090adba3ecf4c0a1a/pages/64e747f090adba3ecf4c0a29) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/64e747f090adba3ecf4c0a1a/pages/64e747f090adba3ecf4c0a29/edit)
+There are two ways to start using Appsmith
+
+1. Signup on [Appsmith Cloud](https://app.appsmith.com/applications).
+2. Install Appsmith on your machine. See the installation guides below.
+
+Installation Methods
+
+
+1. Docker :- [Docker](https://docs.appsmith.com/getting-started/setup/installation-guides/docker?utm_source=github&utm_medium=organic&utm_campaign=readme)
+
+Step-1
+
+                        mkdir ~/appsmith
+                        cd ~/appsmith
+                        curl -L https://bit.ly/3AQzII6 -o $PWD/docker-compose.yml
+Step-2 
+
+	                      vim docker-compose.yml
+
+Step-3
+  
+                        cat docker-compose.yml
+
+ Step-4
+  
+                        docker compose up
+
+  
+2. Kubernetes :- [Kubernetes](https://docs.appsmith.com/getting-started/setup/installation-guides/kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme)
+   
+3. AWS :-   [AWS](https://docs.appsmith.com/getting-started/setup/installation-guides/aws-ami?utm_source=github&utm_medium=organic&utm_campaign=readme)
+
+
+    For other deployment options, see the [Installation Guides](https://docs.appsmith.com/getting-started/setup/installation-guides?utm_source=github&utm_medium=organic&utm_campaign=readme) documentation.
+
+   
