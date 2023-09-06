@@ -13,10 +13,10 @@ There are two ways to start using Appsmith
 1. Signup on [Appsmith Cloud](https://app.appsmith.com/applications).
 2. Install Appsmith on your machine. See the installation guides below.
 
-# First Installation Docker on your Systum
+# # First Installation Docker on your Systum
 Download :-   [Docker Desktop for Window](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?_gl=1*c3s9be*_ga*MTA2OTI5OTQxNS4xNjkyNDQ3Njky*_ga_XJWPQMJYHQ*MTY5NDAwMjE5OS4xMC4xLjE2OTQwMDI4OTQuNjAuMC4w)
 
-## Install interactively 
+## # Install interactively 
 
 1. Double-click Docker Desktop Installer.exe to run the installer.
 2. When the installation is successful, select Close to complete the installation process.
@@ -35,7 +35,7 @@ If using the Windows Command Prompt:
 
 
 
-# Start Docker Desktop
+#  # Start Docker Desktop
 
 Docker Desktop does not start automatically after installation. To start Docker Desktop:
 
@@ -50,11 +50,7 @@ Docker Desktop does not start automatically after installation. To start Docker 
 
 
 
-            
-
-
-
-
+#  # Appsmith run localhost using Docker 
 
 1. Docker :- [Docker](https://docs.appsmith.com/getting-started/setup/installation-guides/docker?utm_source=github&utm_medium=organic&utm_campaign=readme)
 
