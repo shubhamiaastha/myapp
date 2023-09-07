@@ -28,10 +28,10 @@ After downloading Docker Desktop Installer.exe, run the following command in a t
 
 If you’re using PowerShell you should run it as:
 
-                                 $ "Docker Desktop Installer.exe" install 
+    $ "Docker Desktop Installer.exe" install 
 If using the Windows Command Prompt:
 
-                                start /w "" "Docker Desktop Installer.exe" install
+    start /w "" "Docker Desktop Installer.exe" install
 
 
 
@@ -56,20 +56,20 @@ Docker Desktop does not start automatically after installation. To start Docker 
 
 Step-1
 
-                        mkdir ~/appsmith
-                        cd ~/appsmith
-                        curl -L https://bit.ly/3AQzII6 -o $PWD/docker-compose.yml
+    mkdir ~/appsmith
+    cd ~/appsmith
+    curl -L https://bit.ly/3AQzII6 -o $PWD/docker-compose.yml
 Step-2 
 
-	                      vim docker-compose.yml
+    vim docker-compose.yml
 
 Step-3
   
-                        cat docker-compose.yml
+    cat docker-compose.yml
 
  Step-4
   
-                        docker compose up
+     docker compose up
 
   
 2. Kubernetes :- [Kubernetes](https://docs.appsmith.com/getting-started/setup/installation-guides/kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme)
@@ -78,5 +78,13 @@ Step-3
 
 
     For other deployment options, see the [Installation Guides](https://docs.appsmith.com/getting-started/setup/installation-guides?utm_source=github&utm_medium=organic&utm_campaign=readme) documentation.
+
+
+# Learning Resources
+
+1. [Documentation](https://docs.appsmith.com/?utm_source=github&utm_medium=organic&utm_campaign=readme)
+2. [Tutorials](https://docs.appsmith.com/getting-started/tutorials?utm_source=github&utm_medium=organic&utm_campaign=readme)
+3. [Videos](https://www.youtube.com/appsmith)
+4. [Templates](https://www.appsmith.com/templates?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=support)
 
    
